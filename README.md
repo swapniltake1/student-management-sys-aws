@@ -22,19 +22,19 @@ This project is a Student Management System built with Java and Spring Boot. It 
 
 1. Clone the repository:
 
-`git clone https://github.com/your-username/student-management-system.git`
+           `git clone https://github.com/swapniltake1/student-management-sys-aws.git`
 
-`cd student-management-system`
+           `cd student-management-system`
 
 3. Modify the `application.properties` file in the `src/main/resources` directory with your database and EC2 instance configuration.
 
 4. Build the project:
 
-`./mvnw clean package`
+           `./mvnw clean package`
 
 5. Run the application:
 
-`java -jar target/student-management-system.jar`
+           `java -jar target/student-management-system.jar`
 
 6. Access the API endpoints using a tool like Postman.
 
