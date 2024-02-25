@@ -1,6 +1,6 @@
 # Student Management System
 
-This project is a Student Management System built with Java and Spring Boot. It provides an API for managing student data and is designed to be hosted on AWS EC2 with a cloud database.
+This project is a Student Management System built with Java and Spring Boot. It provides an API for managing student data and is designed to be hosted on AWS EC2 build with a cloud database.
 
 ## Features
 
